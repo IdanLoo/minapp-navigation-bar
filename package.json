@@ -1,6 +1,6 @@
 {
   "name": "minapp-navigation-bar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "小程序自定义导航栏刘海屏通用适配方案",
   "main": "miniprogram_dist/index.js",
   "scripts": {
