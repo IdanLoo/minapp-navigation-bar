@@ -24,7 +24,7 @@
 
     ```json
     {
-        usingComponents: {
+        "usingComponents": {
             "navigation-bar": "minapp-navigation-bar"
         }
     }
